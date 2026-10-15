@@ -1,7 +1,6 @@
 class Taifoon < Formula
   desc "The Taifoon coordination layer in the terminal: every command is a /v1 call; it never holds a private key"
   homepage "https://www.taifoon.io/download"
-  version "0.3.0"
   license "MIT"
 
   on_macos do
