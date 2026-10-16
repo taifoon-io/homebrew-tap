@@ -5,22 +5,22 @@ class Taifoon < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/taifoon-io/cli/releases/download/v0.3.0/taifoon-cli-0.3.0-darwin-arm64.tar.gz"
-      sha256 "8fd03bbf27d25067eb513cab2c6501d3158d659f02f2d6476dc4aa3b00e72002"
+      url "https://github.com/taifoon-io/cli/releases/download/v0.3.2/taifoon-cli-0.3.2-darwin-arm64.tar.gz"
+      sha256 "c472896fcf7abd35bd9bbeff2b7e94eee398bf824e49cb9921d82f7b02109761"
     end
     on_intel do
-      url "https://github.com/taifoon-io/cli/releases/download/v0.3.0/taifoon-cli-0.3.0-darwin-x64.tar.gz"
-      sha256 "d309430f70b6a426a7dc0804cf9cd9ed884a387c12090264e3615f100e9adc63"
+      url "https://github.com/taifoon-io/cli/releases/download/v0.3.2/taifoon-cli-0.3.2-darwin-x64.tar.gz"
+      sha256 "3c24abe9a32c438d329f39db7f43dcefe84e750bb109a4cf5eebfba01e0974f5"
     end
   end
   on_linux do
     on_arm do
-      url "https://github.com/taifoon-io/cli/releases/download/v0.3.0/taifoon-cli-0.3.0-linux-arm64.tar.gz"
-      sha256 "648010457ded9988ca4c304eb9448cc973a5d760d36809e91e865ee3a546791b"
+      url "https://github.com/taifoon-io/cli/releases/download/v0.3.2/taifoon-cli-0.3.2-linux-arm64.tar.gz"
+      sha256 "da4d129a5a4066e700e7f3eb20683660da5abd9f99d2ce92a91794ffabb12525"
     end
     on_intel do
-      url "https://github.com/taifoon-io/cli/releases/download/v0.3.0/taifoon-cli-0.3.0-linux-x64.tar.gz"
-      sha256 "b21d4c2e4e1920b309010bac8b922b9459ba5d4409292963f7c7247c2368d89c"
+      url "https://github.com/taifoon-io/cli/releases/download/v0.3.2/taifoon-cli-0.3.2-linux-x64.tar.gz"
+      sha256 "280d105ffc6b1accf9f23ed0e290728d60d7dbf8a5c1c405aea6226d6b154357"
     end
   end
 
